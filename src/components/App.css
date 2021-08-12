@@ -1,0 +1,28 @@
+
+.App {
+    margin: auto;
+    position: relative;
+    top: 2em; 
+    width: 60vw;
+    min-width: 400px;
+    padding: 2em;
+    border: 0.1em solid black;
+    border-radius: 0.5em;
+    background: #fff;
+    overflow: hidden;
+}
+
+.App > p, 
+.App > h1 {
+    text-align: center;
+}
+
+.App > button {
+    width: 7.5rem;
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+
+.bold {
+    font-weight: 500;
+}
